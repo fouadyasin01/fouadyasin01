@@ -130,9 +130,18 @@ Key engineering areas include multi-environment Kubernetes, GitOps delivery, Can
 
 ### 📝 Blogify
 
-Full-stack blogging application focused on application development and backend engineering.
+A full-stack blogging application built with **Flask**, featuring blog content management, image handling, and an interactive web interface.
 
-**Python · Flask · MySQL · REST API**
+**Technologies Used**
+
+`Flask` · `MongoDB` · `Cloudinary` · `HTML` · `CSS` · `JavaScript`
+
+- **Flask** — Python web framework used for building the backend.
+- **MongoDB** — NoSQL database used for storing blog data.
+- **Cloudinary** — Cloud service used for managing and serving images.
+- **HTML** — Used to structure the web pages.
+- **CSS** — Used for styling and presentation.
+- **JavaScript** — Used for interactivity and dynamic behavior.
 
 ---
 
