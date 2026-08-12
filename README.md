@@ -33,8 +33,8 @@ I enjoy taking infrastructure from provisioning through deployment, security, mo
 <tr>
 <td><strong>Cloud</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/amazonaws" width="26" height="26" alt="AWS"/> AWS &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftazure" width="26" height="26" alt="Azure"/> Azure
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="24" alt="AWS"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="24" alt="Microsoft Azure"/>
 </td>
 </tr>
 
@@ -79,7 +79,7 @@ I enjoy taking infrastructure from provisioning through deployment, security, mo
 <tr>
 <td><strong>Security</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/hashicorpvault" width="26" height="26" alt="Vault"/> Vault &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=000000" height="24" alt="HashiCorp Vault"/> &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" height="24" alt="Trivy"/> &nbsp;
 <img src="https://img.shields.io/badge/Cosign-2E7D32?style=flat-square&logo=sigstore&logoColor=white" height="24" alt="Cosign"/> &nbsp;
 <img src="https://img.shields.io/badge/Kyverno-0B5FFF?style=flat-square&logo=kubernetes&logoColor=white" height="24" alt="Kyverno"/> &nbsp;
