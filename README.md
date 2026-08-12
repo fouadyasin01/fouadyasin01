@@ -102,6 +102,8 @@ I enjoy taking infrastructure from provisioning through deployment, security, mo
 
 ### 🏥 MediCare+ Enterprise Platform
 
+[View Repository →](https://github.com/fouadyasin01/Medicare-Plus)
+
 A cloud-native healthcare platform focused on **DevOps automation, Kubernetes, GitOps, progressive delivery, security, observability, and infrastructure automation**.
 
 **Infrastructure**
@@ -125,6 +127,8 @@ Key engineering areas include multi-environment Kubernetes, GitOps delivery, Can
 ---
 
 ### 📝 Blogify
+
+[View Repository →](https://github.com/fouadyasin01/blogify)
 
 A full-stack blogging application built with **Flask**, featuring blog content management, image handling, and an interactive web interface.
 
