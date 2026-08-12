@@ -1,160 +1,197 @@
-# 👋 Hi, I'm Fouad Yasin
+<div align="center">
 
-### ☁️ Cloud & DevOps Engineer
+# Fouad Yasin
 
-I design, automate, and operate **cloud-native platforms** with a focus on Kubernetes, Infrastructure as Code, GitOps, CI/CD, security, and observability.
+### Cloud & DevOps Engineer
 
-I enjoy turning infrastructure and deployment processes into **automated, reliable, and scalable systems**.
+**Cloud Infrastructure · Kubernetes · GitOps · Automation · Security · Observability**
 
----
+<a href="https://github.com/fouadyasin01">
+  <img src="https://img.shields.io/badge/GitHub-fouadyasin01-181717?style=flat&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fouad-yasin-76a489270/">
+  <img src="https://img.shields.io/badge/LinkedIn-Fouad%20Yasin-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
 
-## 🛠️ Technologies & Tools
-
-### ☁️ Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
-</p>
-
-### ☸️ Containers & Kubernetes
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,helm" />
-</p>
-
-### 🏗️ Infrastructure as Code
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-### 🔄 CI/CD & GitOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,git,argo" />
-</p>
-
-### 📊 Observability
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,loki" />
-</p>
-
-### 🔐 Security
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vault,linux" />
-</p>
-
-### 💻 Programming
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
+
+I'm a **Cloud & DevOps Engineer** focused on building automated, secure, and observable cloud-native platforms.
+
+My work centers on **Kubernetes, Infrastructure as Code, GitOps, CI/CD, cloud infrastructure, platform security, and observability**.
+
+I enjoy taking infrastructure from provisioning through deployment, security, monitoring, and continuous delivery.
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td><strong>Cloud</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/amazonaws" width="28"/> AWS &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftazure" width="28"/> Azure
+</td>
+</tr>
+
+<tr>
+<td><strong>Containers & Platform</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/kubernetes" width="28"/> Kubernetes &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/k3s" width="28"/> K3s &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="28"/> Docker &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/helm" width="28"/> Helm
+</td>
+</tr>
+
+<tr>
+<td><strong>Infrastructure</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/terraform" width="28"/> Terraform &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ansible" width="28"/> Ansible &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux" width="28"/> Linux
+</td>
+</tr>
+
+<tr>
+<td><strong>CI/CD & GitOps</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/githubactions" width="28"/> GitHub Actions &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/argo" width="28"/> Argo CD &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="28"/> Git
+</td>
+</tr>
+
+<tr>
+<td><strong>Observability</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/prometheus" width="28"/> Prometheus &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana" width="28"/> Grafana &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana" width="28"/> Loki &nbsp;&nbsp;
+Kubecost
+</td>
+</tr>
+
+<tr>
+<td><strong>Security</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/hashicorpvault" width="28"/> Vault &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/trivy" width="28"/> Trivy &nbsp;&nbsp;
+Kyverno &nbsp;&nbsp; Cosign &nbsp;&nbsp; External Secrets Operator
+</td>
+</tr>
+
+<tr>
+<td><strong>Development</strong></td>
+<td>
+<img src="https://cdn.simpleicons.org/python" width="28"/> Python &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="28"/> MySQL
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Engineering
 
 ### 🏥 MediCare+ Enterprise Platform
 
 <a href="https://github.com/fouadyasin01/Medicare-Plus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fouadyasin01&repo=Medicare-Plus&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fouadyasin01&repo=Medicare-Plus&hide_border=true&theme=transparent" />
 </a>
 
-A cloud-native healthcare platform focused on **DevOps automation, Kubernetes, security, observability, and progressive delivery**.
+A cloud-native healthcare platform focused on **DevOps automation, Kubernetes, GitOps, progressive delivery, security, observability, and infrastructure automation**.
 
-**Built with:**
+**Infrastructure**
 
-`Azure` · `Terraform` · `Ansible` · `K3s` · `Kubernetes` · `Argo CD` · `Argo Rollouts` · `Vault` · `Kyverno` · `Trivy` · `Cosign` · `Prometheus` · `Grafana` · `Loki` · `Kubecost`
+`Azure` · `Terraform` · `Ansible` · `K3s`
 
-Key areas:
+**Platform & Delivery**
 
-* Infrastructure provisioning with **Terraform**
-* Configuration automation with **Ansible**
-* Multi-environment **K3s Kubernetes** platform
-* GitOps delivery with **Argo CD**
-* Canary & Blue/Green deployments with **Argo Rollouts**
-* Security with **Vault, Kyverno, Trivy, Cosign & Network Policies**
-* Observability with **Prometheus, Grafana & Loki**
-* FinOps with **Kubecost**
-* HPA, SLO monitoring and automated remediation
+`Kubernetes` · `Helm` · `Argo CD` · `Argo Rollouts`
+
+**Security**
+
+`Vault` · `Kyverno` · `Trivy` · `Cosign` · `Network Policies`
+
+**Observability & FinOps**
+
+`Prometheus` · `Grafana` · `Loki` · `Kubecost`
+
+Key engineering areas include multi-environment Kubernetes, GitOps delivery, Canary and Blue/Green deployments, security controls, observability, SLO monitoring, HPA, and automated remediation.
 
 ---
 
 ### 📝 Blogify
 
-Full-stack blogging application demonstrating application development, backend engineering, and software engineering practices.
+Full-stack blogging application focused on application development and backend engineering.
+
+**Python · Flask · MySQL · REST API**
 
 ---
 
-### 💻 YasiCom
+### 🛒 YasiCom
 
-E-commerce platform built with **Python, Flask, MySQL and REST APIs**, demonstrating full-stack development and backend engineering.
+E-commerce platform built with a Python/Flask backend and MySQL database.
 
----
-
-## 🏆 Certifications
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKAD-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/HashiCorp-Consul%20Associate-DC477D?style=for-the-badge&logo=consul&logoColor=white" />
-  <img src="https://img.shields.io/badge/HashiCorp-Vault%20Associate-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
-</p>
+**Python · Flask · MySQL · SQLAlchemy · REST API**
 
 ---
 
-## 🎯 Current Focus
+## Certifications
+
+- **AWS Certified DevOps Engineer – Professional**
+- **AWS Certified Solutions Architect – Associate**
+- **Microsoft Certified: Azure DevOps Engineer Expert**
+- **Microsoft Certified: Azure Developer Associate**
+- **Microsoft Certified: Azure Administrator Associate**
+- **Certified Kubernetes Administrator (CKA)**
+- **Certified Kubernetes Application Developer (CKAD)**
+- **HashiCorp Certified: Terraform Associate**
+- **HashiCorp Certified: Consul Associate**
+- **HashiCorp Certified: Vault Associate**
+- **GitHub Actions (GH-200)**
+
+---
+
+## Engineering Focus
 
 ```text
 Cloud Infrastructure
-        ↓
-Infrastructure as Code
-        ↓
-Kubernetes & Containers
-        ↓
-CI/CD & GitOps
-        ↓
-Security & Observability
-        ↓
-Reliable Cloud-Native Platforms
+        │
+        ├── Infrastructure as Code
+        ├── Kubernetes & Platform Engineering
+        ├── GitOps & Continuous Delivery
+        ├── Security & Supply Chain
+        └── Observability & Reliability
 ```
 
 ---
 
-## 📊 GitHub
+## Recent Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fouadyasin01&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouadyasin01&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
+My recent work focuses on continuously improving cloud-native platforms through:
 
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fouad-yasin-76a489270/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/fouadyasin01">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+- Kubernetes & platform engineering
+- Terraform infrastructure automation
+- GitOps with Argo CD
+- Progressive delivery with Argo Rollouts
+- Security and supply-chain controls
+- Observability, SLOs and FinOps
+- CI/CD automation
 
 ---
 
-<p align="center">
-  <b>Building infrastructure. Automating delivery. Continuously learning.</b>
-</p>
+<div align="center">
+
+### Build → Automate → Secure → Observe → Improve
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=fouadyasin01&style=flat-square&color=grey" />
+
+</div>
