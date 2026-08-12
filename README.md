@@ -33,63 +33,65 @@ I enjoy taking infrastructure from provisioning through deployment, security, mo
 <tr>
 <td><strong>Cloud</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/amazonaws" width="28"/> AWS &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftazure" width="28"/> Azure
+<img src="https://cdn.simpleicons.org/amazonaws" width="26" height="26" alt="AWS"/> AWS &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftazure" width="26" height="26" alt="Azure"/> Azure
 </td>
 </tr>
 
 <tr>
 <td><strong>Containers & Platform</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/kubernetes" width="28"/> Kubernetes &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/k3s" width="28"/> K3s &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker" width="28"/> Docker &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/helm" width="28"/> Helm
+<img src="https://cdn.simpleicons.org/kubernetes" width="26" height="26" alt="Kubernetes"/> Kubernetes &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/k3s" width="26" height="26" alt="K3s"/> K3s &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" width="26" height="26" alt="Docker"/> Docker &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/helm" width="26" height="26" alt="Helm"/> Helm
 </td>
 </tr>
 
 <tr>
 <td><strong>Infrastructure</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/terraform" width="28"/> Terraform &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ansible" width="28"/> Ansible &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/linux" width="28"/> Linux
+<img src="https://cdn.simpleicons.org/terraform" width="26" height="26" alt="Terraform"/> Terraform &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ansible" width="26" height="26" alt="Ansible"/> Ansible &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux" width="26" height="26" alt="Linux"/> Linux
 </td>
 </tr>
 
 <tr>
 <td><strong>CI/CD & GitOps</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/githubactions" width="28"/> GitHub Actions &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/argo" width="28"/> Argo CD &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/git" width="28"/> Git
+<img src="https://cdn.simpleicons.org/githubactions" width="26" height="26" alt="GitHub Actions"/> GitHub Actions &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/argo" width="26" height="26" alt="Argo"/> Argo CD &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" width="26" height="26" alt="Git"/> Git
 </td>
 </tr>
 
 <tr>
 <td><strong>Observability</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/prometheus" width="28"/> Prometheus &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana" width="28"/> Grafana &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/grafana" width="28"/> Loki &nbsp;&nbsp;
-Kubecost
+<img src="https://cdn.simpleicons.org/prometheus" width="26" height="26" alt="Prometheus"/> Prometheus &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana" width="26" height="26" alt="Grafana"/> Grafana &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana" width="26" height="26" alt="Loki"/> Loki &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kubecost-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="24" alt="Kubecost"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Security</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/hashicorpvault" width="28"/> Vault &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/trivy" width="28"/> Trivy &nbsp;&nbsp;
-Kyverno &nbsp;&nbsp; Cosign &nbsp;&nbsp; External Secrets Operator
+<img src="https://cdn.simpleicons.org/hashicorpvault" width="26" height="26" alt="Vault"/> Vault &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" height="24" alt="Trivy"/> &nbsp;
+<img src="https://img.shields.io/badge/Cosign-2E7D32?style=flat-square&logo=sigstore&logoColor=white" height="24" alt="Cosign"/> &nbsp;
+<img src="https://img.shields.io/badge/Kyverno-0B5FFF?style=flat-square&logo=kubernetes&logoColor=white" height="24" alt="Kyverno"/> &nbsp;
+<img src="https://img.shields.io/badge/ESO-4A90E2?style=flat-square&logo=kubernetes&logoColor=white" height="24" alt="External Secrets Operator"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Development</strong></td>
 <td>
-<img src="https://cdn.simpleicons.org/python" width="28"/> Python &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mysql" width="28"/> MySQL
+<img src="https://cdn.simpleicons.org/python" width="26" height="26" alt="Python"/> Python &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql" width="26" height="26" alt="MySQL"/> MySQL
 </td>
 </tr>
 </table>
@@ -101,7 +103,7 @@ Kyverno &nbsp;&nbsp; Cosign &nbsp;&nbsp; External Secrets Operator
 ### 🏥 MediCare+ Enterprise Platform
 
 <a href="https://github.com/fouadyasin01/Medicare-Plus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fouadyasin01&repo=Medicare-Plus&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fouadyasin01&repo=Medicare-Plus&hide_border=true&theme=transparent" alt="MediCare+ repository" />
 </a>
 
 A cloud-native healthcare platform focused on **DevOps automation, Kubernetes, GitOps, progressive delivery, security, observability, and infrastructure automation**.
@@ -192,6 +194,6 @@ My recent work focuses on continuously improving cloud-native platforms through:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=fouadyasin01&style=flat-square&color=grey" />
+<img src="https://komarev.com/ghpvc/?username=fouadyasin01&style=flat-square&color=grey" alt="Profile views" />
 
 </div>
