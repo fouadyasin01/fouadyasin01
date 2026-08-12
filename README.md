@@ -145,13 +145,6 @@ A full-stack blogging application built with **Flask**, featuring blog content m
 
 ---
 
-### 🛒 YasiCom
-
-E-commerce platform built with a Python/Flask backend and MySQL database.
-
-**Python · Flask · MySQL · SQLAlchemy · REST API**
-
----
 
 ## Certifications
 
