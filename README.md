@@ -102,10 +102,6 @@ I enjoy taking infrastructure from provisioning through deployment, security, mo
 
 ### 🏥 MediCare+ Enterprise Platform
 
-<a href="https://github.com/fouadyasin01/Medicare-Plus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fouadyasin01&repo=Medicare-Plus&hide_border=true&theme=transparent" alt="MediCare+ repository" />
-</a>
-
 A cloud-native healthcare platform focused on **DevOps automation, Kubernetes, GitOps, progressive delivery, security, observability, and infrastructure automation**.
 
 **Infrastructure**
