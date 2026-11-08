@@ -147,7 +147,7 @@ A full-stack blogging application built with **Flask**, featuring blog content m
 
 
 ## Certifications
-
+- **HashiCorp Certified: Terraform Authoring and Operations Advanced**
 - **AWS Certified DevOps Engineer – Professional**
 - **AWS Certified Solutions Architect – Associate**
 - **Microsoft Certified: Azure DevOps Engineer Expert**
